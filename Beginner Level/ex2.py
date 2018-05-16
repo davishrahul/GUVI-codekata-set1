@@ -1,7 +1,7 @@
-a=int(input())
-if (a%2)==0:
+b=int(input())
+if (b%2)==0:
      print ("Even")
-     elif (a%2)!==0:
+     elif (b%2)!==0:
           print ("Odd")
           else:
           print ("invalid output")
