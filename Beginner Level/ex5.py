@@ -5,5 +5,7 @@ if((m>n)and (m>b)):
      print(m)
 elif((n>m)and(n>b)):
      print(n)
-else:
+elif((b>m) and (b>n))
      print(b)
+     else:
+          print("Invalid Input")
