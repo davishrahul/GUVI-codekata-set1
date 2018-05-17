@@ -5,4 +5,4 @@ try:
 	print(i)
 		
 except:
-    print("invalid input")
+        print("invalid input")
