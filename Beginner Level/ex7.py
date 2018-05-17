@@ -1,9 +1,8 @@
 try:
-	a="Hello \n"
-	b=int(input())
-	i=a*b  
+	b="Hello \n"
+	a=int(input())
+	i=b*a  
 	print(i)
 		
 except:
-  print("invalid input")
-     
+            print("invalid input")
