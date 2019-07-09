@@ -12,6 +12,6 @@ int main() {
     }
     else
     {
-        cout <<"invalid output";
+        cout <<"invalid input";
     }
 }
