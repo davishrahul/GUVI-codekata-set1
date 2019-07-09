@@ -12,6 +12,6 @@ int main() {
     }
     else
     {
-        cout <<"invalid input";
+        cout <<"Invalid Input";
     }
 }
